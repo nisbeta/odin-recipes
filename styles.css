@@ -1,0 +1,24 @@
+body{
+  background-color: #7fffd492;
+}
+
+.title{
+  text-align: center;
+  background-color: aquamarine;
+}
+
+.recipe-image{
+  display: block;
+  width: 400px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.recipe-description{
+  text-align: center;
+}
+
+div.ingredient-list > ul > li,div.instructions > ol > li{
+  font-size: 22px;
+}
