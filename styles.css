@@ -22,3 +22,19 @@ body{
 div.ingredient-list > ul > li,div.instructions > ol > li{
   font-size: 22px;
 }
+
+.ingredient-list{
+  padding: 5px;
+  margin: 5px;
+  border-width: medium;
+  border-style: solid;
+  border-radius: 20px 20px 20px 20px;
+}
+
+.instructions{
+  padding: 5px;
+  margin: 5px;
+  border-width: medium;
+  border-style: solid;
+  border-radius: 20px 20px 20px 20px;
+}
